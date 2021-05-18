@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabrish89
 - 👀 I’m interested in Machine Learning and Optimization
-- 🌱 I’m currently learning NLP algoritms
+- 🌱 I’m currently learning Paraphrase Identification techniques
 - 💞️ I’m looking to collaborate on NLP and language model projects
 - 📫 How to reach me : sabrish89@gmail.com
 
